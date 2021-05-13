@@ -1,0 +1,6 @@
+# Packwiz executable
+packwiz.exe
+
+# Packwiz installer and installer botstrap jars
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar

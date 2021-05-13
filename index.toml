@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "install/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "mods/betterend.toml"
 hash = "19798ef748031c9c48b43e75174b1d1775534a4332bfa2a36a234e022ad81c7e"
 metafile = true
@@ -88,6 +84,10 @@ metafile = true
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "87fd735b29c6dcc4cbce0bd9e1ca346ad11bb3cba8881c5b829884dca5d40948"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "packwiz-installer.jar"

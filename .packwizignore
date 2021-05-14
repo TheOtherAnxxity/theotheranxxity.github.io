@@ -2,3 +2,12 @@
 .git/**
 .gitignore
 .gitattributes
+
+# Packwiz executable and installer
+packwiz.exe
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar
+
+# README and index.html
+README.md
+index.html

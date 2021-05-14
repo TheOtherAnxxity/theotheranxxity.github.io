@@ -84,15 +84,3 @@ metafile = true
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "87fd735b29c6dcc4cbce0bd9e1ca346ad11bb3cba8881c5b829884dca5d40948"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "dcaa8030d0a3b258cab0019b13739c8e8ba0719536ccc20abb36521dcd901d9f"
-
-[[files]]
-file = "packwiz.exe"
-hash = "fc8205167b01164859ec49563ff8ffe92b10920df01493f622c9238fd488af26"

@@ -26,6 +26,11 @@ hash = "63d16f85201080c81461d06bfb547f89e7d77d0698603c750667be2ad6689d9a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-disable-custom-worlds-advice.toml"
+hash = "833c49834e1bb973fa63773268d6882305319d60f6fe1a45ebca7ac735a1a187"
+metafile = true
+
+[[files]]
 file = "mods/lato-origins.toml"
 hash = "331bbbaae923c7e54cc34693cf01fe238f7418f7bfe2b25c78045c42437df34e"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/mob-origins.toml"
 hash = "2fb2205b6832bdbaa14be63442abc2f295b1c2b9635c53de9ab7ce6239892b28"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "89f3e405702e97fbea8f83e9a11ef245bff1b90fa612f70362e85792fa4606ed"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 # Packwiz executable
-packwiz.exe
+/mod-packs/simply-vanilla-plus/packwiz.exe
+/mod-packs/guns-go-brrrr/packwiz.exe
 
-# Packwiz installer and installer botstrap jars
-packwiz-installer.jar
-packwiz-installer-bootstrap.jar
+# Downloader script
+pack-downloader.ps1

@@ -1,0 +1,14 @@
+name = "FerriteCore (Forge)"
+filename = "ferritecore-2.0.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3272/785/ferritecore-2.0.4-forge.jar"
+hash-format = "murmur2"
+hash = "2787783962"
+
+[update]
+[update.curseforge]
+file-id = 3272785
+project-id = 429235
+release-channel = "beta"

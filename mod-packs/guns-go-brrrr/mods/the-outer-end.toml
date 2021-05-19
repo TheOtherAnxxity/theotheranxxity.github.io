@@ -1,0 +1,14 @@
+name = "The Outer End"
+filename = "OuterEnd-0.2.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3281/483/OuterEnd-0.2.11.jar"
+hash-format = "murmur2"
+hash = "2802877720"
+
+[update]
+[update.curseforge]
+file-id = 3281483
+project-id = 430404
+release-channel = "beta"

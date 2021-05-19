@@ -1,0 +1,14 @@
+name = "YUNG's API (Forge)"
+filename = "YungsApi-1.16.4-Forge-6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3261/121/YungsApi-1.16.4-Forge-6.jar"
+hash-format = "murmur2"
+hash = "3372480006"
+
+[update]
+[update.curseforge]
+file-id = 3261121
+project-id = 421850
+release-channel = "beta"

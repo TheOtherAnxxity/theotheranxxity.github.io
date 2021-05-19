@@ -1,0 +1,201 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/abnormals-core.toml"
+hash = "9c8eb3a42c28c7e4b993d78b421c66ebef4cef0e0d8664180f2b9ce62fd9ce00"
+metafile = true
+
+[[files]]
+file = "mods/abnormals-delight.toml"
+hash = "00e6904c2ae0706f2c205fbf2cb87ef5231fbb624fce727413f4361f4e6d36fc"
+metafile = true
+
+[[files]]
+file = "mods/atmospheric.toml"
+hash = "571f49b0fbd8380db99910cbcb3c7575b0da22cae507e61e2b77fca4be081c92"
+metafile = true
+
+[[files]]
+file = "mods/atomic-bomb-1-16.toml"
+hash = "35e856d7c0ab0d10ea293259cd1c59bf060ff94c44b7f8b5f2267635acfedff3"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.toml"
+hash = "b8262bd18ebd03fe3ccd7aaa718e6cab48ab4fc213559b68427987fafb66f8c5"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "c5323cf848c5e6e3dab816fdad2e422384e743eddd7c745f4bc423c85a455384"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.toml"
+hash = "0d42fcbe6650a0aa7592e1a0086ab5bdf98524c869877d6bf9d81cf563120347"
+metafile = true
+
+[[files]]
+file = "mods/berry-good.toml"
+hash = "b78067d00c0bee3e5c5e8bcc4479f30e5d2d676faef3666f58cb563cf227ee26"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "540fdd96c438d61d38a8c375e26bf14dcfaa4699948bd0c36fa66e58eafc38d3"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.toml"
+hash = "1aacc2b4059077b3931a6aa110470ae580979902558505443bb2b2490267f6ea"
+metafile = true
+
+[[files]]
+file = "mods/charm-reforged.toml"
+hash = "c595750aa5da10cf6d1122c64832d34537f76a969246d342e29df1021a867093"
+metafile = true
+
+[[files]]
+file = "mods/charmonium-reforged.toml"
+hash = "b3308c621c37b1ccfe23ab305210981f9a21b70d8f7e7eead387b2087d914f7d"
+metafile = true
+
+[[files]]
+file = "mods/collective.toml"
+hash = "4b775c4915d137bcb727f5ece09c8d9ba88f9dd176456821c442bb25662f0380"
+metafile = true
+
+[[files]]
+file = "mods/endergetic.toml"
+hash = "cecf445e48995451f212bdd73101d8f063da201fee70f121cff7799ceb25242e"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-mushrooms.toml"
+hash = "f9818f1d2e376db4aa24af33e562bc12a4108592f086d9d221b57025f8445bc2"
+metafile = true
+
+[[files]]
+file = "mods/environmental.toml"
+hash = "f369549950a75cc147d093b36a9ffce7b379cd06d4da063a5d292828a34f0d49"
+metafile = true
+
+[[files]]
+file = "mods/extra-boats.toml"
+hash = "bee7a30d2eff2ca68358c92fc6740f83d3b5eb76cdd76ea9b82b682f186f03fd"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "1b353230290ff8f031c3f8b2bf90a0a23cc4f0ec20ca869446791a05bbf9517f"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "caeb41a93ff429df97c58c85f4259de63c7c34aee463508c790a50d67a5fde1b"
+metafile = true
+
+[[files]]
+file = "mods/fruitful.toml"
+hash = "7f25a4d74381b95a3476d0a750ff59b626e8c61cbc5ad2ec3c644a11fe4d6906"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "cb28aee72ec9b8eb5b75412c87ab62811b581a8b3c76d50e0cc60919e18381e4"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.toml"
+hash = "0220706a018401a5d5e9c96d3efc3b77eb7e95d1030247cab555f9e0c5302676"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.toml"
+hash = "ee0b76aaa107ac963906a20ec4adf99b79a8368d590a8a97b53af213c9cce5b2"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.toml"
+hash = "a179e4cbb52d73adaa7b1360549c31399d9a131576eff35df089f30dc26ccfdb"
+metafile = true
+
+[[files]]
+file = "mods/quark-o-plenty.toml"
+hash = "bb513d6d690b63a4f5ebaac7551f2cbf56c0f2c5710d96f63e370105b470f2c0"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.toml"
+hash = "5a7af733a13fb2b56509cffcce876987277c6c7912aa5e4ed67ab0d9ee6621c1"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "2dd7f8866e5065b089de9d58569ffb52b00d14233ebe71b39f2099ea8ba2960c"
+metafile = true
+
+[[files]]
+file = "mods/savage-and-ravage.toml"
+hash = "381cd9f447d777a6dbf13683fd42b9a18baf18f8aa9165605e1b38691f7eedc2"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.toml"
+hash = "40eff69f17e69fc6f8d39d8e5801955a2b487eee963e476f93b74f07ef11f550"
+metafile = true
+
+[[files]]
+file = "mods/simply-tea.toml"
+hash = "a6acca81b28a9c1a9b8ce14f204e0c0c90a1cb80901e2ce3cb51cece83777ab3"
+metafile = true
+
+[[files]]
+file = "mods/smaller-nether-portals.toml"
+hash = "1224ec6c5c029535cba05d024bca077f3a12886c94f1d7f00e1959d129167da5"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-potato-edition.toml"
+hash = "4d54c5c348a28c38a766fe0ac477bd35c86963016a1482bb6ca93dae86a5c56b"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.toml"
+hash = "6cd021d09b40fc20ce276b8d217c20553c007b28c9de785319c88d848445f5b9"
+metafile = true
+
+[[files]]
+file = "mods/the-outer-end.toml"
+hash = "86daed85352f36cfb61642587a070804faf63883f5e413f092ebfa20e8706cae"
+metafile = true
+
+[[files]]
+file = "mods/traverse-reforged.toml"
+hash = "b7b8cd27393f8200a44b011f3cef0faea9f200399da7d02752dda4d78393910b"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.toml"
+hash = "7404332cafe5bf13896a1b9dfe2a2e8bfe8968f105f788134f77b0e287455b33"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "1b9ffa3571c9bb6393f66d911991c9a86677cae3bb75768e2d6e16f790cb3126"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "e9844fd41a8d2878df4f0a7f2bc4776f08f419f3015613589f94aa211d14aae7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "f598c7a1cd9ace7f4ca3c21962bd7f5ebd5b2d38ae1b17dfd7980e56082f142a"
+metafile = true

@@ -1,0 +1,46 @@
+body {
+    background-color: cadetblue;
+    color: hsl(42, 100%, 50%);
+    font-family: Verdana, sans-serif;
+    font-size: 1.1em;
+}
+
+body::-webkit-scrollbar {
+    width: 0.8em;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: hsl(0, 0%, 60%);
+}
+
+body::-webkit-scrollbar-track {
+    box-shadow: inset 1pt 1pt 4pt hsla(0, 0%, 0%, 0.3);
+}
+
+::marker {
+    color: hsl(28, 100%, 50%);
+    font-family: "Font Awesome 5 Free", serif;
+    font-weight: 400;
+    content: "\f111";
+}
+
+a:link {
+    text-decoration: none;
+    color: hsl(42, 100%, 50%);
+}
+
+a:visited {
+    text-decoration: none;
+    color: hsl(33, 100%, 50%);
+}
+
+a:hover {
+    text-decoration: none;
+    color: hsl(26, 100%, 50%);
+}
+
+a:active {
+    text-decoration: none;
+    color: hsl(20, 100%, 50%);
+}
+

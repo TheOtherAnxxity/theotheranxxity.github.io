@@ -1,0 +1,14 @@
+name = "Simply Tea!"
+filename = "simplytea-1.16.5-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3310/150/simplytea-1.16.5-2.4.0.jar"
+hash-format = "murmur2"
+hash = "52831510"
+
+[update]
+[update.curseforge]
+file-id = 3310150
+project-id = 268373
+release-channel = "beta"

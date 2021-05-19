@@ -1,0 +1,14 @@
+name = "Spice of Life: Potato Edition"
+filename = "solpotato-1.16.X-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3178/864/solpotato-1.16.X-1.1.0.jar"
+hash-format = "murmur2"
+hash = "2935003915"
+
+[update]
+[update.curseforge]
+file-id = 3178864
+project-id = 431978
+release-channel = "beta"

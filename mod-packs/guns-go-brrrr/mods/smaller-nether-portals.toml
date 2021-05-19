@@ -1,0 +1,14 @@
+name = "Smaller Nether Portals"
+filename = "smallernetherportals_1.16.5-1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3219/295/smallernetherportals_1.16.5-1.6.jar"
+hash-format = "murmur2"
+hash = "4278163428"
+
+[update]
+[update.curseforge]
+file-id = 3219295
+project-id = 345614
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Charmonium Reforged"
+filename = "charmonium-forge-1.16.5-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3214/653/charmonium-forge-1.16.5-2.3.2.jar"
+hash-format = "murmur2"
+hash = "2610079888"
+
+[update]
+[update.curseforge]
+file-id = 3214653
+project-id = 431587
+release-channel = "beta"

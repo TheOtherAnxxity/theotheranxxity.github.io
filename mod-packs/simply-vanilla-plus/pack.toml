@@ -1,0 +1,22 @@
+name = "Simply Vanilla+"
+author = "TheOtherAnxxity"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fea8c57f19ba3b8fe6d60edcae1b3d0f5927aa5fb2dcd99f9b3a1fe9c251b471"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"
+
+[export]
+[export.curseforge]
+disable-jumploader = false
+jumploader-forge-version = "36.1.23"
+jumploader-version-id = 3227191
+project-id = 0
+
+[options]
+acceptable-game-versions = ["1.16.3", "1.16.4", "1.16.5"]

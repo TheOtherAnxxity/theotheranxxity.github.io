@@ -25,11 +25,12 @@ param (
     [Parameter(Mandatory=$true)]
     [string]$ModPackVersion,
 
-    [string]$ModPackPath = "C:\Users\ASUS\WebstormProjects\theotheranxxity.github.io\mod-packs\simply-vanilla-plus"
+    [string]$ModPackSearchPath = "C:\Users\ASUS\WebstormProjects\theotheranxxity.github.io\mod-packs"
 )
 
-# Construct mod pack file
+# Construct mod pack file and path
 [string]$ModPackFile = "./$ModPackName-$ModPackVersion.zip"
+[string]$ModPackPath = Join-Path -Path $ModPackSearchPath -ChildPath $ModPackFolder
 
 # Set location
 Set-Location $ModPackPath

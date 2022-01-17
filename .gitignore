@@ -1,6 +1,2 @@
 # Packwiz executable
-/mod-packs/simply-vanilla-plus/packwiz.exe
-/mod-packs/guns-go-brrrr/packwiz.exe
-
-# Downloader script
-pack-downloader.ps1
+**/packwiz.exe

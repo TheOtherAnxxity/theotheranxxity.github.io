@@ -1,2 +1,2 @@
 # Website
-This is the OtherAnxxity's website. It is currently a work in progress.
+Hi, this is my website. Right now, it's very minimal, cause its only purpose is to direct people to one of my modded servers. I might add a portfolio of stuff I've done in the future, but I have no plans right now.

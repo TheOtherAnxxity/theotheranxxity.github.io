@@ -1,0 +1,8 @@
+body {
+    --gray: 224;
+    background-color: rgb(var(--gray), var(--gray), var(--gray));
+    font-family: Verdana, sans-serif;
+    color: hsl(0, 0%, 2%);
+    text-align: center;
+    font-size: 2em;
+}

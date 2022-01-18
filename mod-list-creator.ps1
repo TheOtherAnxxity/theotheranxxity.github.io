@@ -1,19 +1,3 @@
-# Declare HTML used to beautify mod list
-[string]$FontAwesome = "https://kit.fontawesome.com/1565b8f9f4.js"
-[string[]]$Html = @(
-    "<!DOCTYPE html>"
-    "<html lang=`"en`">"
-    "<head>"
-    "<title>Mod List</title>"
-    "<meta charset=`"UTF-8`">"
-    "<link rel=`"stylesheet`" href=`"../../mod-list.css`">"
-    "<script src=`"$FontAwesome`" crossorigin=`"anonymous`"></script>"
-    "</head>"
-    "<body>"
-    "</body>"
-    "</html>"
-)
-
 # Input parameters
 param (
     [Parameter(Mandatory=$true)]
@@ -25,7 +9,25 @@ param (
     [Parameter(Mandatory=$true)]
     [string]$ModPackVersion,
 
+    [Parameter()]
     [string]$ModPackSearchPath = "C:\Users\ASUS\WebstormProjects\theotheranxxity.github.io\mod-packs"
+)
+
+# Declare HTML used to beautify mod list
+[string]$FontAwesome = "https://kit.fontawesome.com/1565b8f9f4.js"
+[string[]]$Html = @(
+    '<!DOCTYPE html>'
+    '<html lang="en">'
+    '<head>'
+    '<title>Mod List</title>'
+    '<meta charset="UTF-8">'
+    '<link rel="stylesheet" href="../../mod-list.css">'
+    "<script src=`"$FontAwesome`" crossorigin=`"anonymous`">"
+    '</script>'
+    '</head>'
+    '<body>'
+    '</body>'
+    '</html>'
 )
 
 # Construct mod pack file and path
@@ -53,9 +55,9 @@ New-Item -Path "./mod-list.html" -Force
 $ModList = Get-Content -Path "./modlist.html"
 
 # Beautify old mod list and write it to new mod list
-Add-Content -Path "./mod-list.html" -Value $Html[0..8]
+Add-Content -Path "./mod-list.html" -Value $Html[0..9]
 Add-Content -Path "./mod-list.html" -Value $ModList
-Add-Content -Path "./mod-list.html" -Value $Html[9, 10]
+Add-Content -Path "./mod-list.html" -Value $Html[10, 11]
 
 # Delete old modlist
 Remove-Item "./modlist.html"

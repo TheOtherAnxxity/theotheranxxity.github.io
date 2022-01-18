@@ -1,8 +1,11 @@
 body {
-    --gray: 224;
-    background-color: rgb(var(--gray), var(--gray), var(--gray));
+    --shade: 85%;
+    background-color: hsl(0, 0%, var(--shade));
+}
+
+p {
     font-family: Verdana, sans-serif;
-    color: hsl(0, 0%, 2%);
+    color: hsl(0, 0%, 5%);
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
 }
